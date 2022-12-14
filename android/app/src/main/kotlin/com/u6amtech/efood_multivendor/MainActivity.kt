@@ -1,4 +1,4 @@
-package com.sixamtech.sixam_mart_store
+package com.heartwish.storeapp
 
 import io.flutter.embedding.android.FlutterActivity
 
